@@ -1,6 +1,6 @@
 ---
 # test with sample front matter.
-layout: default
+layout: page
 title:  Kaala
 
 ---

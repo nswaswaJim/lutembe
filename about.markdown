@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About1md
-permalink: /about1/
+
+#permalink: /about1/
 
 ---
 

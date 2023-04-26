@@ -1,6 +1,6 @@
 ---
 layout: default
-title: zAbout
+# title: about
 ---
 # About page
 
