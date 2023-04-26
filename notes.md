@@ -1,4 +1,7 @@
+---
 # Notes:  Jekyl tinkering:
+---
+Notes:  random jekyll stuff
 
 bundle exec jekyll serve
 
