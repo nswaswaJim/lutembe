@@ -1,5 +1,7 @@
 ---
 layout: default
+title: AAAthismytitle!
+
 ---
 
 # Week 17
