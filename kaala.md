@@ -4,24 +4,16 @@ layout: page
 title:  Kaala
 
 ---
+### Ka'ala, highest peak on Oahu  
+### 15 Apr 2023
 
-This is a test.  plain text.  
-placeholder kaala
-<p>html in this para</p>
 
-<img src="https://nswaswajim.github.io/lutembe/images/muhabura.jpg">
 
-![muhabura, the guide1](images/muhabura1.jpg)
-
-[testinsub page](_posts/testinsub.md)<br>
-<a href="_posts/testinsub.md">html link to testinsub</a><br>
-<a href="_posts/welcome.markdown">html link to welcome</a>
-
-<img src="images/muhabura.jpg"> <br>
+Video from pretty high up Ka'ala, highest peak on Oahu.  Last views before entering the clouds socking in the top of the mountain.  
 
    <img src="images/muhabura.jpg" height="300"><br>
 
-   <video width="320" height="240" controls>
+   <video width="640" height="480" controls>
   <source src="https://nswaswajim.github.io/lutembe/images/IMG_0712.MOV" type="video/mp4">
   
   Your browser does not support the video tag.
@@ -29,3 +21,13 @@ placeholder kaala
 
 ![testimagesyntaxinmarkdn](images/muhabura.jpg)  
 
+
+Video from pretty high up Ka'ala, highest peak on Oahu.  Last views before entering the clouds socking in the top of the mountain.  
+
+   <img src="images/muhabura.jpg" height="300"><br>
+
+   <video width="640" height="480" controls>
+  <source src="https://nswaswajim.github.io/lutembe/images/IMG_0686.MOV" type="video/mp4">
+  
+  Your browser does not support the video tag.
+</video>
