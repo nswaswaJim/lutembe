@@ -1,5 +1,6 @@
 ---
 # test with sample front matter.
+layout: default
 ---
 
 This is a test.  plain text.  
