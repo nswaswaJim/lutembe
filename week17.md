@@ -1,5 +1,5 @@
 ---
-# blank front matter
+layout: default
 ---
 
 # Week 17

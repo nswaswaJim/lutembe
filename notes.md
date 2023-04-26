@@ -1,5 +1,6 @@
 ---
 # Notes:  Jekyl tinkering:
+layout: default
 ---
 Notes:  random jekyll stuff
 
