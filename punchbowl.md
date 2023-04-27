@@ -13,4 +13,4 @@ title:  Punchbowl
 
 <img src="https://nswaswajim.github.io/lutembe/images/punchbowlPano.jpg" height="100px">
 
-<a href="images/punchbowlPano.jpg" target="_blank">punchbowl in new tab</a>
+<a href="https://nswaswajim.github.io/lutembe/images/punchbowlPano.jpg" target="_blank">punchbowl in new tab</a>
