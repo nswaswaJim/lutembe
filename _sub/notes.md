@@ -11,6 +11,8 @@ or good for testing:
 bundle exec jekyll serve --livereload
 - should refresh.  
 
+![testimagesyntaxinmarkdn](images/muhabura.jpg)  
+
 
 ```
 jekyll build - Builds the site and outputs a static site to a directory called _site.
