@@ -19,7 +19,7 @@ Video from pretty high up Ka'ala, highest peak on Oahu.  Last views before enter
   Your browser does not support the video tag.
 </video>
 
-![testimagesyntaxinmarkdn](images/muhabura.jpg)  
+
 
 
 ### Pink Pillbox sunrise, Nanakuli, 7 Apr  
