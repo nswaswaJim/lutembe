@@ -27,3 +27,5 @@ Tues- wake mid, final touch pack, loooong flight.  Charge chromey...
 ...but good progress on Jekyl and making simple place for blog on github.  A start!  
 
 Almost to Europe.  Fucking tired.  Looking forward to sun and moving about.  
+
+bllog template almost done.  Week will tie into it like this with dillinger or retext from home, dillinger from office, vscode/direct github if needed.
