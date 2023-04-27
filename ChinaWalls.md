@@ -10,7 +10,7 @@ title:  ChinaWalls
 
 
 
-![muhabura, the guide1](images/ChinaCliffs2.MOV)
+[markdown link to vid](images/ChinaCliffs2.MOV)
 
 
 
