@@ -25,12 +25,20 @@ test assets link:
   Your browser does not support the video tag.
 </video>
 <p></p>
-   <video width="320" height="240" controls
+   <video width="320" height="240" controls>
   source src="https://nswaswajim.github.io/lutembe/images/ChinaCliffs2.MOV" type="video/mp4">
   
   Your browser does not support the video tag.
-</video>
 
+Video from Pink Pillbox, Nanakulu, Apri 7  
+
+   <img src="images/muhabura.jpg" height="300"><br>
+
+   <video width="640" height="480" controls>
+  <source src="https://nswaswajim.github.io/lutembe/images/IMG_0686.MOV" type="video/mp4">
+  
+  Your browser does not support the video tag.
+</video>
 
 
 
