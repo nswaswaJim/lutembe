@@ -23,3 +23,7 @@ Tues- wake mid, final touch pack, loooong flight.  Charge chromey...
 * copied week17 into lutembe/lutembe
 
 ### Tues now, I guess?  Days gonna get sloppy. On the plane now...
+
+...but good progress on Jekyl and making simple place for blog on github.  A start!  
+
+Almost to Europe.  Fucking tired.  Looking forward to sun and moving about.  
