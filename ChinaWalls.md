@@ -12,9 +12,7 @@ title:  ChinaWalls
 
 ![muhabura, the guide1](images/ChinaCliffs2.MOV)
 
-[testinsub page](_posts/testinsub.md)<br>
-<a href="_posts/testinsub.md">html link to testinsub</a><br>
-<a href="_posts/welcome.markdown">html link to welcome</a>
+
 
 <img src="images/muhabura.jpg"> <br>
 
