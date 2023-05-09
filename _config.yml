@@ -32,7 +32,7 @@ permalink: /:title/
 collections:  
   pages   :
     output    : true  
-    # permalink : /:collections/:path/
+    permalink : /:collections/:path/
 
 # Build settings
 theme: minima
