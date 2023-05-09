@@ -27,12 +27,12 @@ url: "https://nswaswajim.github.io" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 github_username:  nswaswaJim
 
-permalink: /:title/
+# permalink: /:title/
 
 collections:  
   pages   :
     output    : true  
-    permalink : /:collections/:path/
+    permalink : /pages/page
 
 # Build settings
 theme: minima
