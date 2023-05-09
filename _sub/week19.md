@@ -7,5 +7,10 @@
 - get this liquid/jekyll/ghub stuff sorted!  
 - 
 
+## tues.  
+- some images and mov from Kaena now uploaded to git.  
+- latest plan :  make image site mostly html with minimal jekyll just to get going?  
+- 
+
 
 
