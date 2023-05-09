@@ -10,7 +10,8 @@
 ## tues.  
 - some images and mov from Kaena now uploaded to git.  
 - latest plan :  make image site mostly html with minimal jekyll just to get going?  
-- 
+- best idea yet:  not posts but collections, get past this jekyll block:  
+-   https://stackoverflow.com/questions/27099427/jekyll-filename-without-date
 
 
 
