@@ -13,6 +13,9 @@ placeholder kaala
 
 ![muhabura, the guide1](images/muhabura1.jpg)
 
+
+[another link test, to pages folder](/pages/page)
+
 [testinsub page](_posts/testinsub.md)<br>
 <a href="_posts/testinsub.md">html link to testinsub</a><br>
 <a href="_posts/welcome.markdown">html link to welcome</a>
