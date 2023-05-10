@@ -15,8 +15,18 @@
 -   
 ## Weds:  
 - check video sizes again.  Had this all worked out before...
--   also for css etc check this link:  
--   -- https://gist.github.com/emmahsax/b51e793dc1348e7ce75646427508dfd8
+
+### the github working better!  Now just need some organizing.  
+make like:
+index
+|-pages
+    |-kaala
+    |-kaena
+    |-punchbowl
+    |-manoa
+    |-China Walls
+    |-misc
+     |-template (not vis).  
 
 
 
