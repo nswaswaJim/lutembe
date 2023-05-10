@@ -2,7 +2,7 @@
 # test with sample front matter.
 layout: page
 title:  template
-
+permalink: "/pages/"
 ---
 
 This is a test.  plain text.  
