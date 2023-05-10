@@ -36,6 +36,7 @@ collections:
     
     _pages1 :
       output  : true 
+       permalink: /:collections/:title
      
     
 
