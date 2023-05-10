@@ -4,9 +4,12 @@ layout: page
 title:  template
 ---
 
-  {% include navigation.html %}
-    {{ content }}
 
+<p>some jekyll stuff:<br>
+  {% include navigation.html %}
+   
+</p>
+-->
 This is a test.  plain text.  
 placeholder kaala
 <p>html in this para</p>
@@ -17,6 +20,9 @@ placeholder kaala
 
 
 [another link test, to pages folder](/lutembe/pages/page.html)
+
+[to p1](/lutembe/p1/p1.html)
+
 
 [testinsub page](_posts/testinsub.md)<br>
 <a href="_posts/testinsub.md">html link to testinsub</a><br>
