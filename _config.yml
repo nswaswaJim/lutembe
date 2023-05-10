@@ -30,9 +30,9 @@ github_username:  nswaswaJim
 permalink:  /:title
 
 collections:  
-  pages   :
-    output    : true  
-    permalink: /:collections/:title
+  # pages   :
+  #  output    : true  
+  #  permalink: /:collections/:title
     
     _pages1 :
       output  : true 
