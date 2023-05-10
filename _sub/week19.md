@@ -12,6 +12,13 @@
 - latest plan :  make image site mostly html with minimal jekyll just to get going?  
 - best idea yet:  not posts but collections, get past this jekyll block:  
 -   https://stackoverflow.com/questions/27099427/jekyll-filename-without-date
+-   
+## Weds:  
+- check video sizes again.  Had this all worked out before...
+-   also for css etc check this link:  
+-   -- https://gist.github.com/emmahsax/b51e793dc1348e7ce75646427508dfd8
+
+
 
 
 
