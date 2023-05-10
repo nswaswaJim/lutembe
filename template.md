@@ -4,6 +4,9 @@ layout: page
 title:  template
 ---
 
+  {% include navigation.html %}
+    {{ content }}
+
 This is a test.  plain text.  
 placeholder kaala
 <p>html in this para</p>
