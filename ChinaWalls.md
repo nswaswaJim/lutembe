@@ -29,6 +29,13 @@ test assets link:
   
   Your browser does not support the video tag.
 </video>
+
+<p>retest, should be IMG_0787.MOV from Kaena:</p>
+ <video width="320" height="240" controls
+  source src="https://nswaswajim.github.io/lutembe/images/IMG_0787.MOV" type="video/mp4">
+  
+  Your browser does not support the video tag.
+</video>
   
   
   
