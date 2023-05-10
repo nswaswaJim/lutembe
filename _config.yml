@@ -32,7 +32,7 @@ github_username:  nswaswaJim
 collections:  
   pages   :
     output    : true  
-     permalink: /:pages/:path/
+     permalink: /:pages/:title
     
 
 # Build settings
