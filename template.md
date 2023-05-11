@@ -1,7 +1,7 @@
 ---
 # test with sample front matter.
-layout: page
-title:  template
+layout: home
+title:  homey page
 ---
 
 
