@@ -28,7 +28,10 @@ index
     |-misc
      |-template (not vis).  
 
+### Thursday 
 
+- Thomas last day.  :-(  
+- -good link:  top maps:  https://www.trailforks.com/trails/old-pali-road/
 
 
 
