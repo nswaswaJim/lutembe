@@ -4,4 +4,8 @@ layout: page
 ---
 
 
-placeholder 
+{% include navigation.html %} 
+
+
+
+page placeholder 
