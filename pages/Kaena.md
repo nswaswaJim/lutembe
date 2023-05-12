@@ -3,5 +3,8 @@ title: page placeholder
 layout: page
 ---
 
+### Kaena 
 
-placeholder 
+{% include navigation.html %} 
+
+Kaena placeholder 
