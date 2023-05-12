@@ -16,8 +16,8 @@ What started out as just a ride...ended up in a hike to the top of the highest p
 <p>
    diff. format:  full url to work in firefox:
    
-<video width="320" height="240" controls>
-  <source src="https://nswaswajim.github.io/lutembe/images/output1.avi" type="video/avi" autoplay="false" preload="none">
+<video controls>
+  <source src="https://nswaswajim.github.io/lutembe/images/ChinaCliffs1.MOV" type="video/mp4" autoplay="false" preload="none">
  
 
 </video>
