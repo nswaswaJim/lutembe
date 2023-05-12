@@ -8,11 +8,10 @@ layout: page
 {% include navigation.html %} 
 
 What started out as just a ride...ended up in a hike to the top of the highest peak on Oahu!   
+<p>this is with just src:</p>
 <p>
-   <video width="320" height="240" controls>
-  <source src="../images/ChinaCliffs1.MOV" type="video/mp4" autoplay="false" preload="none">
+   <video width="320" height="240" controls src="../images/ChinaCliffs1.MOV" type="video/mp4" autoplay="false" preload="none">
   
-
 </video>
 </p>
 <p>
