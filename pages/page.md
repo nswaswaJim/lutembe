@@ -10,6 +10,6 @@ layout: page
 
 page walls placeholder 
 
-  <video width="320" height="240" controls="" src="../images/ChinaCliffs1.MOV" type="video/mp4" autoplay="false" preload="none">
+  <video width="320" height="240" controls="" src="../images/walls1.webm" type="video/webm" autoplay="false" preload="none">
 
 </video>
