@@ -18,6 +18,6 @@ placeholder2:
 
 
  <video width="320" height="240" controls="" preload="none">
-  <source src="../images/walls1.webm" type="video/webm">
+  <source src="../images/pillbox.webm" type="video/webm">
 
 </video>
