@@ -6,16 +6,12 @@ layout: page
 
 {% include navigation.html %} 
 
-#this is page template
+#Punchbowl - panorama
 
-page text template 
+Click image below to open in new tab, can drag and/or scroll view around.  
 
-  
-
-placeholder video:  
+  ![Punchbowl panorama](https://nswaswajim.github.io/lutembe/images/punchbowlPano.jpg)  
 
 
- <video width="320" height="240" controls="" preload="none">
-  <source src="../images/walls1.webm" type="video/webm">
+<a href="https://nswaswajim.github.io/lutembe/images/punchbowlPano.jpg" target="_blank">punchbowl in new tab</a>
 
-</video>

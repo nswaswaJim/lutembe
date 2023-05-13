@@ -53,7 +53,9 @@ index
     - Sat:  early, ride, check 43  
     - Sun mother's day  
     
-    
+    Need this on chromey:  
+    git config credential.helper store
+
 
     
     
