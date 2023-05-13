@@ -33,5 +33,32 @@ index
 - Thomas last day.  :-(  
 - -good link:  top maps:  https://www.trailforks.com/trails/old-pali-road/
 
+### Friday    
+
+    - no more thomas, but get together waikiki
+    - survive today, fri at least/ at last.
+    - waikiki gather, then check 43 (laundry)
+    - sat finish 43 asmap  (laundry)
+    - Wow Victor just had a good idea?!?    fdoroml.  osctb.  
+    
+    ---
+    
+    -- lutembe/pages/kaala currently works in office with Chrome and Edge.   No joy firefox, or chromeybook on cannery network.  
+    
+    ---afternoon update- wow with .webm is working all!!! At last, working site basic template!!!
+    
+    - bike
+    - some bulk food
+    - laundry and geek
+    - Sat:  early, ride, check 43  
+    - Sun mother's day  
+    
+    
+
+    
+    
+    
+    
+    
 
 
