@@ -21,11 +21,11 @@
 title: nswaswaJim
 email: freebuule@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  There must be some useful purpose for Jekyll.
+  Test site for uploads etc.
 baseurl: "/lutembe" # the subpath of your site, e.g. /blog
 url: "https://nswaswajim.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  nswaswaJim
+# github_username:  nswaswaJim
 
 permalink:  /:title
 
