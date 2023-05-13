@@ -12,7 +12,7 @@ layout: page
 Kaena placeholder 
 
  <video width="320" height="240" controls>
-  <source src="../images/kaena1.MOV" type="video/mp4" autoplay="false" preload="none">
+  <source src="../images/kaena1.webm" type="video/webm" preload="none">
   
 
 </video>
