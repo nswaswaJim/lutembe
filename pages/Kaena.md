@@ -3,11 +3,10 @@ title: Kaena
 layout: page
 ---
 
-### Kaena 
 
 {% include navigation.html %} 
 
-
+#Kaena
 
 Trail on the way to Kaena point:
 
