@@ -10,7 +10,7 @@ layout: page
 
 The sign is true:  
 
-![Ka'au Trailhead Sign](../images/trailsign.HEIC)  
+![Ka'au Trailhead Sign](../images/trailsign.jpg)  
 
 
 
