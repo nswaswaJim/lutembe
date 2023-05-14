@@ -6,7 +6,8 @@ layout: page
 
 {% include navigation.html %} 
 
-#Punchbowl - panorama
+<p></p>
+
 
 Click image below to open in new tab, can drag and/or scroll view around.  
 

@@ -6,7 +6,7 @@ layout: page
 
 {% include navigation.html %} 
 
-#Kaau Crater trail
+<p></p>
 
 The sign is true:  
 

@@ -6,7 +6,8 @@ layout: page
 
 {% include navigation.html %} 
 
-#Kaena
+<p></p>
+
 
 Trail on the way to Kaena point:
 

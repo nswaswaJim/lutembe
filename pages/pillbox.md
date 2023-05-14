@@ -7,7 +7,8 @@ layout: page
 {% include navigation.html %} 
 
 
-#Pink Pillbox
+<p></p>
+
 
 
 Sunrise at the Pink Pillbox
