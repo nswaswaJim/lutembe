@@ -16,8 +16,19 @@ The sign is true:
 
 Waterfall on the way to Kaau Crater:
   
+From bottom:<br> 
 
-  
+
+ <video width="320" height="240" controls="" preload="none">
+  <source src="../images/kaaubottom.webm" type="video/webm">
+
+</video>
+
+
+
+
+
+
 
 From top:<br> 
 
