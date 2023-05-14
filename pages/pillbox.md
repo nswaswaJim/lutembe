@@ -1,5 +1,5 @@
 ---
-title: page placeholder
+title: Pink Pillbox
 layout: page
 ---
 
@@ -10,7 +10,7 @@ layout: page
 
 
 
-pillbox placeholder2:  
+Sunrise at the Pink Pillbox
 
 
  <video width="320" height="240" controls="" preload="none">

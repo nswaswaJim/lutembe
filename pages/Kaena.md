@@ -1,5 +1,5 @@
 ---
-title: page placeholder
+title: Kaena
 layout: page
 ---
 
@@ -9,7 +9,7 @@ layout: page
 
 
 
-Kaena placeholder 
+Trail on the way to Kaena point:
 
  <video width="320" height="240" controls>
   <source src="../images/kaena1.webm" type="video/webm" preload="none">
