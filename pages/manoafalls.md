@@ -1,5 +1,5 @@
 ---
-title: page --template
+title: Manoa Falls
 layout: page
 ---
 
