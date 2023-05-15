@@ -6,7 +6,7 @@ layout: page
 
 {% include navigation.html %} 
 
-#this is page template
+
 
 page text template 
 
