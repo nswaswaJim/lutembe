@@ -12,10 +12,11 @@ Muhabura- ok, this image is NOT from biking around the island.  This is the even
 <img src="images/muhabura.jpg" height="300" title="Muhabura, the guide"><br>
   
 
-placeholder video:  
+<!--placeholder video:  
 
 
  <video width="320" height="240" controls="" preload="none">
   <source src="../images/walls1.webm" type="video/webm">
 
 </video>
+-->
