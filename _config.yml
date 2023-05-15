@@ -27,7 +27,7 @@ url: "https://nswaswajim.github.io" # the base hostname & protocol for your site
 # twitter_username: jekyllrb
 # github_username:  nswaswaJim
 
-#permalink: /about/
+
  permalink:  /:title
 
 collections:  
