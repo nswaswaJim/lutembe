@@ -1,6 +1,6 @@
 ---
 title: Manoa Falls
-layout: default1
+layout: page
 ---
 
 
