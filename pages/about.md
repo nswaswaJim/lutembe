@@ -1,7 +1,6 @@
 ---
 title: About
 layout: page
-permalink: /about/
 ---
 
 
@@ -18,24 +17,4 @@ This is the evening sun setting in one of the most amazing, magical places that 
 
 
 <img src="../images/muhabura.jpg" height="300" title="Muhabura, the guide"><br>
-  
-
-
-
-
-{% include navigation.html %} 
-
-
-
-About page text template 
-
-  
-
-placeholder video:  
-
-
- <!-- <video width="320" height="240" controls="" preload="none">
-  <source src="../images/walls1.webm" type="video/webm">
-
-</video>
--->
+ 
