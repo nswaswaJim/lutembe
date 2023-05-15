@@ -7,7 +7,7 @@ layout: page
 
 {% include navigation.html %} 
 
-Oh You clicked the image instead of the navigation links! Ok now you have a tangent.  Happens to me all the time...  
+Oh You clicked the image instead of the navigation links! Ok now you have a tangent.
 
 
 Ok, this image is NOT from biking around the island.  It was an image I put on the page as a placeholder while making the site, and is just too good to take down.  
