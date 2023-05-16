@@ -5,7 +5,10 @@
 - iPhoney seems working today???  Otherwise best buy has Oneplus nord 200, (alt nord 20), for a cnote.  
 - keep iphoney plugged in tonight and check tomorrrow.  
 - when able:  github nav:  check out https://just-the-docs.com/docs/navigation-structure/, has a very clean navigation setup.  
-- and, better yet, it incorporates/links to mermaid diagrams:  https://docs.developer.tech.gov.sg/docs/documentation-portal-publisher-guide/advanced/mermaid?id=examples
+- and, better yet, it incorporates/links to mermaid diagrams (see md kitchen sink on just the docs page).   https://docs.developer.tech.gov.sg/docs/documentation-portal-publisher-guide/advanced/mermaid?id=examples
 - alternatively, https://idratherbewriting.com/documentation-theme-jekyll-next-version/building-navigation.html using liquid.
+- 
+
+### mon:  get some stuff from down to earth.  bike easy.  get bag to merin for mom.  relax with pavilion and above.  sleep early.  Goal- have enough from above links to make good use of tomorrow.  
 
 
