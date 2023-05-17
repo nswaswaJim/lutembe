@@ -25,5 +25,7 @@ get some stuff from down to earth.  bike easy.  get bag to merin for mom.  relax
 -- and wtf is wrong with the just the docs project?  was working now some theme issue... fix from home or restart with v2?
 -   
 
-
+Git credential, again:  
+ git config credential.helper store
+$ git push http://example.com/repo.git
 
