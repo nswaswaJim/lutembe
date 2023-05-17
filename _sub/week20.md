@@ -29,3 +29,6 @@ Git credential, again:
  git config credential.helper store
 $ git push http://example.com/repo.git
 
+### ok disregard rant earlier, github oahuv1 is running... just needs uploads via vscode, or git, or even ghpages, but do not hit build on gh pages.  Let it run it's own.  So, mostly working simple template site up using new format!!!
+
+Nice bike today after work also.  Toho No, gained about 500, plus total about 10m after work.  Imagine doing fresh sat am, then hike?!?  Can do.
